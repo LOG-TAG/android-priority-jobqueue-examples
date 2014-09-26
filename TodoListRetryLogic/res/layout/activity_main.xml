@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+   
+    <TextView
+        android:id="@+id/todoText"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:textColor="#000"
+        android:text="TODO TEXT GOES_HERE"
+        android:layout_marginTop="10dp"
+           android:layout_marginBottom="10dp"
+            android:layout_marginLeft="5dp">
+    </TextView>
+    
+</LinearLayout>
